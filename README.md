@@ -1,4 +1,4 @@
-Code Sample - PHP 5.5 (With Kohana MVC Framework), RESTful API and MySQL.
+Code Sample - PHP 5.5 (With Kohana MVC Framework), RESTful API, Unit Testing and MySQL.
 ==================
 
 This is a simple back-end demo of a blog that shows how I can create a RESTful API from scratch and my application of the MVC pattern and PHP coding standards.
@@ -10,4 +10,11 @@ This is a simple back-end demo of a blog that shows how I can create a RESTful A
 ###Open Source libraries and languages used in this example:
 * PHP 5.5
 * Kohana (MVC Framework)
+* PHPUnit
 * MySQL
+
+###Files you should take a look at:
+* application/classes/Model/*
+* application/classes/Controller/*
+* application/classes/tests/classes/Model*
+* Also, the DB structure
